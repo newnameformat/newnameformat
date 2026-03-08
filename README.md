@@ -16,6 +16,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF">
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40"/>
 </picture>
+
+<img src="https://cdn.simpleicons.org/photopea/18A497" height="40" alt="photopea"/>
+<img src="https://cdn.simpleicons.org/openai" height="40" alt="ai"/>
 </p>
   
           
