@@ -17,26 +17,17 @@
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40"/>
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/resend/FFFFFF">
+  <img src="https://cdn.simpleicons.org/resend/000000" height="40"/>
+</picture>
+
 <img src="https://cdn.simpleicons.org/photopea/18A497" height="40" alt="photopea"/>
 <img src="https://cdn.simpleicons.org/openai" height="40" alt="ai"/>
-</p>
-  
-          
-          
-</p>
-
-### 🎨 Design / Creative
-<p>
-  <img src="https://cdn.simpleicons.org/photopea/18A497" height="40" alt="photopea"/>
-  <img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" height="40" alt="lightroom"/>
-</p>
-
-### 🤖 AI Tools
-<p>
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="ai"/>
-</p>
-
-### 📬 Services
-<p>
-  <img src="https://cdn.simpleicons.org/resend" height="40" alt="resend"/>
+<img src="[https://yourrepo.github.io/icons/adobelightroom-blue.svg](https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg)" height="40" alt="Lightroom"/>
+<img
+  src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/midjourney/icon.svg"
+  height="40"
+  alt="Midjourney Logo (AI)"
+/>
 </p>
