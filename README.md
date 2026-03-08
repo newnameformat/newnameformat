@@ -23,9 +23,5 @@
 </picture>
 
 <img src="https://cdn.simpleicons.org/photopea/18A497" height="40" alt="photopea"/>
-<img
-  src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/midjourney/icon.svg"
-  height="40"
-  alt="Midjourney Logo (AI)"
-/>
+<img src="./assets/Adobe_Photoshop_Lightroom_CC_logo.svg" height="40" alt="Lightroom"/>
 </p>
