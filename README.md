@@ -23,5 +23,7 @@
 </picture>
 
 <img src="https://cdn.simpleicons.org/photopea/18A497" height="40" alt="photopea"/>
+<img src="./assets/open-ai-seeklogo.png" height="40" alt="OpenAI"/>
+<img src="./assets/deepseek-ai-icon-seeklogo.png" height="40" alt="Deepseek AI"/>
 <img src="./assets/Adobe_Photoshop_Lightroom_CC_logo.svg" height="40" alt="Lightroom"/>
 </p>
