@@ -27,4 +27,5 @@
 <img src="./assets/open-ai-logo.png" height="40" alt="OpenAI"/>
 <img src="./assets/deepseek-ai-icon-seeklogo.png" height="40" alt="Deepseek AI"/>
 <img src="./assets/Adobe_Photoshop_Lightroom_CC_logo.svg" height="40" alt="Lightroom"/>
+<img src="./assets/midjourney-seeklogo.svg" height="40" alt="MidJourney"/>
 </p>
