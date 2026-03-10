@@ -1,3 +1,5 @@
+<img src="./assets/husky-header.svg"/>
+
 ## 🧰 Tech Stack
 
 <p align="left">
