@@ -7,19 +7,17 @@
 
 ## ⚙ SYSTEM MODULES
 ### TECH STACK
-<p>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">HTML</span>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">CSS</span>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">JavaScript</span>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">MySQL</span>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">VS Code</span>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">Chutes AI</span>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">DeepSeek</span>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">Lightroom</span>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">Midjourney</span>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">Photopea</span>
-<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">Vercel</span>
-</p>
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge)
+![Photopea](https://img.shields.io/badge/Photopea-black?style=for-the-badge)
+![Lightroom](https://img.shields.io/badge/Lightroom-black?style=for-the-badge)
+![Midjourney](https://img.shields.io/badge/Midjourney-black?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-black?style=for-the-badge)
+![ChutesAI](https://img.shields.io/badge/Chutes_AI-black?style=for-the-badge)
 
 </td>
 
