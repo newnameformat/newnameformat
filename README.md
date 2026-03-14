@@ -8,17 +8,17 @@
 ## ⚙ SYSTEM MODULES
 ### TECH STACK
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38"/>
-<img src="./assets/chutes-ai-logo.svg" height="38"/>
-<img src="./assets/deepseek-ai-icon-seeklogo.png" height="38"/>
-<img src="./assets/adobe-lightroom-icon.svg" height="38"/>
-<img src="./assets/midjourney-seeklogo.svg" height="38"/>
-<img src="https://cdn.simpleicons.org/photopea/18A497" height="40"/>
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF"> <img src="https://cdn.simpleicons.org/vercel/000000" height="40"/> </picture>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">HTML</span>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">CSS</span>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">JavaScript</span>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">MySQL</span>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">VS Code</span>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">Chutes AI</span>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">DeepSeek</span>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">Lightroom</span>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">Midjourney</span>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">Photopea</span>
+<span style="border:1px solid #ccc;padding:6px 10px;border-radius:999px;">Vercel</span>
 </p>
 
 </td>
