@@ -39,7 +39,6 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge)
 ![Photopea](https://img.shields.io/badge/Photopea-black?style=for-the-badge)
-![Lightroom](https://img.shields.io/badge/Lightroom-black?style=for-the-badge)
 ![Midjourney](https://img.shields.io/badge/Midjourney-black?style=for-the-badge)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-black?style=for-the-badge)
 ![ChutesAI](https://img.shields.io/badge/Chutes_AI-black?style=for-the-badge)
