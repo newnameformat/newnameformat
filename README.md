@@ -16,9 +16,19 @@
 
 ## SYSTEM STATUS
 
-<img src="https://github-readme-stats.vercel.app/api?username=newnameformat&show_icons=true&theme=transparent"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=newnameformat&show_icons=true&theme=transparent&bg_color=0d1117&title_color=ffffff&text_color=c0d6f0&icon_color=58a6ff&border_color=58a6ff" 
+    height="180"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newnameformat&layout=compact&theme=transparent"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=newnameformat&layout=compact&theme=transparent&bg_color=0d1117&title_color=ffffff&text_color=c0d6f0&border_color=58a6ff" 
+    height="150"
+  />
+</p>
 
 
 ## TECH STACK
